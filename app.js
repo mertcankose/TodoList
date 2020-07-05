@@ -153,18 +153,16 @@ app.post('/delete', (req, res) => {
 });
 
 
-
-/*
-app.get('/work', (req, res) => {
-    res.render('list', { listTitle: "Work", newListItems: workItems });
-});
-*/
-
 app.get('/about', (req, res) => {
     res.render('about', { name: 'Mertcan' });
 });
 
-
-app.listen(3000, () => {
+//for Heroku
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
+app.listen(port, () => {
     console.log("Server running on port 3000!");
 });
+
