@@ -76,10 +76,12 @@ app.get('/', (req, res) => {
             });
             res.redirect("/");
         } else {
+            console.log("donenler " + foundItems.length);
             res.render('list', { listTitle: day, newListItems: foundItems });
             //console.log(foundItems); //empty array
         }
     });
+    
 });
 
 
