@@ -5,10 +5,10 @@ TodoList-EJS-MONGO-NODE.JS
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot1]]
-[![Product Name Screen Shot][product-screenshot2]]
-[![Product Name Screen Shot][product-screenshot3]]
-[![Product Name Screen Shot][product-screenshot4]]
+![Product Name Screen Shot][product-screenshot1]
+![Product Name Screen Shot][product-screenshot2]
+![Product Name Screen Shot][product-screenshot3]
+![Product Name Screen Shot][product-screenshot4]
 
 
 ### Built With
