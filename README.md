@@ -38,5 +38,5 @@ node app.js
 
 [product-screenshot1]: screenshots/todo.png
 [product-screenshot2]: screenshots/todo2.png
-[product-screenshot3]: screenshots/mongo.png
-[product-screenshot4]: screenshots/mongo2.png
+[product-screenshot3]: screenshots/mongodb.png
+[product-screenshot4]: screenshots/mongodb2.png
